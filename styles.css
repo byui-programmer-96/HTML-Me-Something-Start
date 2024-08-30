@@ -11,7 +11,7 @@ body{
 #mainHeading{
     color: red;
 }
-#testP{
+.funParagraph{
     color: green;
 }
 .container {
